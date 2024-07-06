@@ -1,0 +1,61 @@
+{
+  "products": {
+    "wickler": [
+      {
+        "title": "Elektrischer Wollwickler mit Metallgetriebe mit Konen für ca. 500g Wolle",
+        "description": [
+          "Das 'Non plus Ultra' unter den Wollwicklern.",
+          "Knäul von 500g wickeln ohne das die Arme 'abfallen'.",
+          "Stricken ohne Fäden anzuflicken und endlos Fadenenden zu vernähen.",
+          "Unentbehrlich um Wolle für die Strickmaschine aufzubereiten oder mehrfädig zu stricken.",
+          "Elektrischer Wollwickler mit stufenlos über eine elektronische Drehzahlregelung einstellbarem Motor."
+        ],
+        "price": "285,00€",
+        "imageFolder": "wickler-1",
+        "images": ["wickler-1-a", "wickler-1-b", "wickler-1-c", "wickler-1-d"]
+      },
+      {
+        "title": "Elektrischer Wollwickler mit Metallgetriebe mit Konen für ca. 500g Wolle",
+        "description": [
+          "Das 'Non plus Ultra' unter den Wollwicklern.",
+          "Knäul von 500g wickeln ohne das die Arme 'abfallen'.",
+          "Stricken ohne Fäden anzuflicken und endlos Fadenenden zu vernähen.",
+          "Unentbehrlich um Wolle für die Strickmaschine aufzubereiten oder mehrfädig zu stricken.",
+          "Elektrischer Wollwickler mit stufenlos über eine elektronische Drehzahlregelung einstellbarem Motor."
+        ],
+        "price": "285,00€",
+        "imageFolder": "wickler-1",
+        "images": ["wickler-1-a", "wickler-1-b", "wickler-1-c", "wickler-1-d"]
+      },
+      {
+        "title": "Elektrischer Wollwickler mit Metallgetriebe mit Konen für ca. 500g Wolle",
+        "description": [
+          "Das 'Non plus Ultra' unter den Wollwicklern.",
+          "Knäul von 500g wickeln ohne das die Arme 'abfallen'.",
+          "Stricken ohne Fäden anzuflicken und endlos Fadenenden zu vernähen.",
+          "Unentbehrlich um Wolle für die Strickmaschine aufzubereiten oder mehrfädig zu stricken.",
+          "Elektrischer Wollwickler mit stufenlos über eine elektronische Drehzahlregelung einstellbarem Motor."
+        ],
+        "price": "285,00€",
+        "imageFolder": "wickler-1",
+        "images": ["wickler-1-a", "wickler-1-b", "wickler-1-c", "wickler-1-d"]
+      },
+      {
+        "title": "Elektrischer Wollwickler mit Metallgetriebe mit Konen für ca. 500g Wolle",
+        "description": [
+          "Das 'Non plus Ultra' unter den Wollwicklern.",
+          "Knäul von 500g wickeln ohne das die Arme 'abfallen'.",
+          "Stricken ohne Fäden anzuflicken und endlos Fadenenden zu vernähen.",
+          "Unentbehrlich um Wolle für die Strickmaschine aufzubereiten oder mehrfädig zu stricken.",
+          "Elektrischer Wollwickler mit stufenlos über eine elektronische Drehzahlregelung einstellbarem Motor."
+        ],
+        "price": "285,00€",
+        "imageFolder": "wickler-1",
+        "images": ["wickler-1-a", "wickler-1-b", "wickler-1-c", "wickler-1-d"]
+      }
+    ],
+    "haspeln": [],
+    "markierer": [],
+    "sonstiges": []
+  }
+}
